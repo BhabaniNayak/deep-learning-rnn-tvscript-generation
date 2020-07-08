@@ -1,4 +1,4 @@
-# deep-learning-rnn-tvscript
+# deep-learning-rnn-tvscript (pytorch, rnn, python, gpu, aws)
 
 TV Script Generation
 In this project, we will generate our own Seinfeld TV scripts using RNNs. You'll be using part of the Seinfeld dataset of scripts from 9 seasons. The Neural Network you'll build will generate a new ,"fake" TV script, based on patterns it recognizes in this training data.
